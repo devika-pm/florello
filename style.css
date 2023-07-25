@@ -1,0 +1,170 @@
+*{margin: 0px;
+padding: 0px;}
+#spa{
+    color: orange;
+}
+h1{
+    margin:50px 0px 50px 0px;
+}
+.container{
+    width:15rem;
+    height:100vh;
+    position: relative;
+}
+.navbar{
+    width:85%;
+    /* margin-left: 100px; */
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+
+}
+.list{
+   display: inline;
+   list-style: none;
+   margin:0px 20px;
+
+
+}
+.link{
+    text-decoration: none;
+    color: black;
+    font-size: large;
+    font-weight: bold;
+}
+.link:hover{
+    color: orange;
+}
+.linkcart{
+    text-decoration: none;
+    color: black;
+    font-size: large;
+    font-weight: bold;
+    margin-left: 150px;
+}
+.image{
+    width:100%;
+     background-image: url("https://www.stemsbrooklyn.com/wp-content/uploads/2019/11/MG_9187-scaled.jpg");
+     background-repeat:no-repeat ;
+     background-size: cover;
+     background-position:center ;
+    /* position:relative; */
+    height:100vh;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    
+}
+.image1{
+   margin: 0px 50px 0px 650px;
+} 
+#para{
+    font-size:25px;
+    font-weight: bolder;
+    font-style:oblique;
+    position: absolute;
+    /* margin-left: 70rem;
+    margin-top: 250px; */
+    
+}
+#from{
+    color:orange;
+    font-size: small;
+    font-weight: lighter;
+}
+.imggroup{
+    width:100%;
+    height: 100vh;
+    margin-top: 0px;
+    position: relative;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+
+}
+
+#para2{
+    font-size: 20px;
+    font-style: normal;
+    font-weight: bolder;
+    color: rgb(26, 21, 129);
+    position: absolute;
+    margin-left: 470px;
+    margin-top: 430px;
+}
+#wed{
+    font-size: medium;
+    font-weight: bold;
+    color: black;
+}
+.image2>img{
+    width:30rem;
+    margin-right: 5px;
+    margin-left: 200px;
+    margin-bottom: 0px;
+
+    
+}
+
+#para3{
+    font-size: large;
+    font-weight: bold;
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 290px;
+
+}
+.image3>img{
+    width:30rem;
+    margin-left: px; 
+    margin-right: 300px;
+    margin-top: 0px;
+}
+.logo>img{
+    width:8rem;
+    margin-left: 650px; 
+    
+}
+#para4{
+    font-size: large;
+    font-weight: bolder;
+    margin-left: 30rem;
+}
+/* .imggroup2{ */
+    /* display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* width:20%; */
+    
+
+/* .img1{ */
+    /* width:10%;
+    height:30vh;
+    margin-top: 100px;
+} * */
+.group{
+    width:100%;
+    display: flex;
+    justify-content:space-evenly ;
+    align-items: center;
+}
+.img1{
+    width:25%;
+    margin:20px;
+
+}
+.footer{
+    background-color: rgb(248, 235, 235);
+    padding: 10rem;
+    margin:50px 0px;
+}
+#bo{
+    margin:30px 0px;
+}
+.icon-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+
+}
